@@ -2,7 +2,7 @@
 This is the second lab of the Web Application Development course ECOM 5410, that covers **the basics of CSS**.
 
 
-:clipboard: __The scenario| Chong Qing House is planning on holding a Noodle Night, but they haven’t figured out what music to play for their customers.
+:ramen: __The scenario| Chong Qing House is planning on holding a Noodle Night, but they haven’t figured out what music to play for their customers.
                    They have found a database of over 2 million music CDs which they want to search through. For each CD, there is the title, the artist name, and the list of                        tracks. Each track has a song name and an artist name. Other information (e.g. length of tracks, genre, notes) is available as well.__  
  
 #### _Create and design a frontend for this scenario_
