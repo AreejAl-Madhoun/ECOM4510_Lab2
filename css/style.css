@@ -662,3 +662,16 @@ font{
 	background-image: url("../images/amberalbum.jpg");
 	background-color: #edf1fd;
 }
+.amber-menu{ 
+	padding-right:30px; /*right padding (internal space around the entire/parent element (menu)) */
+	display: flex; 
+	padding-top: 8px;
+	padding-left: 30px;	
+}
+.amber-menu figcaption {
+	padding: 10px 15px; 
+	color:#dad3e6;
+	font-size: 20px;
+	padding-inline-start: 850px;
+}
+
